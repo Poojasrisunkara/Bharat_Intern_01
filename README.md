@@ -1,5 +1,5 @@
 ## Bharat_Intern_01
-Welcome to my personal portfolio project! This project was created as a part of my internship at Prodigy InfoTech. The portfolio showcases my skills, projects, and contact information using HTML and CSS.
+Welcome to my personal portfolio project! This project was created as a part of my internship at Bharat Intern. The portfolio showcases my skills, projects, and contact information using HTML and CSS.
 
 ## Table of Contents
 
@@ -15,8 +15,7 @@ Welcome to my personal portfolio project! This project was created as a part of 
 
 This personal portfolio website is designed to provide a comprehensive view of my professional experience, skills, and projects. It serves as a digital resume that potential employers and collaborators can use to learn more about me.
 
-
-https://github.com/Poojasrisunkara/PRODIGY_WD_04/assets/165466759/39eee7a3-6cad-4e0e-b29e-7b33083e259e
+https://github.com/Poojasrisunkara/Bharat_Intern_01/assets/165466759/a870d8f3-0b22-47fe-8363-03007235253a
 
 
 ## Features
