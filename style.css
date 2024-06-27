@@ -170,7 +170,7 @@ body {
 .fd1{
     margin-top:70px;
     display:grid;
-    grid-template-columns:350px 1fr;
+    grid-template-columns:350px 780px;
     column-gap: 50px;
     line-height: 0.5rem;
     height: 100px;
